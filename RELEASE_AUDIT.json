@@ -1,0 +1,21 @@
+{
+  "created_at": "2026-09-15T21:29:49.536404+08:00",
+  "status": "PASS",
+  "publication_seeds": [
+    23,
+    37,
+    49,
+    61,
+    73
+  ],
+  "file_count_hashed": 843,
+  "total_bytes_hashed": 132995939,
+  "missing_required": [],
+  "missing_checkpoint_files": [],
+  "excluded_file_leaks": {
+    "partial_csv": [],
+    "cache_directories": []
+  },
+  "source_project_modified": false,
+  "note": "Allow-list copy; originals retained. Generated manifest does not hash itself or RELEASE_AUDIT.json."
+}
